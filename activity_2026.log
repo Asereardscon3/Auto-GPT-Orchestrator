@@ -318,3 +318,4 @@ Commit at 2026-07-17T09:30:23: Optimize Dockerfile for smaller image size
 Commit at 2026-11-06T13:42:53: Refactor module interfaces for 2026 release
 Commit at 2026-11-06T10:04:40: Fix concurrency issue in task scheduler
 Commit at 2026-12-31T18:58:22: Add logging for better debugging
+Commit at 2026-12-31T19:49:05: Update README with new benchmarks
