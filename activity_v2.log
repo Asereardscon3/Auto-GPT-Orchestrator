@@ -218,3 +218,4 @@ Commit at 2024-10-07T10:05:40: Update documentation and add usage examples
 Commit at 2024-10-07T18:51:16: Fix bug in dashboard visualization
 Commit at 2026-03-18T16:05:52: Fix concurrency issue in task scheduler
 Commit at 2026-03-18T18:15:01: Fix concurrency issue in task scheduler
+Commit at 2023-05-16T16:38:30: Update README with new benchmarks
