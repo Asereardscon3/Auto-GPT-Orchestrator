@@ -223,3 +223,4 @@ Commit at 2023-05-18T10:48:35: Add logging for better debugging
 Commit at 2023-05-18T13:55:35: Optimize Dockerfile for smaller image size
 Commit at 2023-05-18T12:01:04: Improve error handling in distributed pipeline
 Commit at 2023-05-18T16:18:58: Refactor core logic for better performance
+Commit at 2023-05-18T10:14:08: Add logging for better debugging
