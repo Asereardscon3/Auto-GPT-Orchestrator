@@ -48,3 +48,4 @@ Activity at 2024-11-07T18:24:50: Add support for multi-GPU training
 Activity at 2024-11-07T11:05:16: Add support for multi-GPU training
 Activity at 2024-11-08T12:12:44: Fix bug in dashboard visualization
 Activity at 2024-11-08T09:43:38: Refactor core logic for better performance
+Activity at 2024-11-08T14:16:25: Update documentation and add usage examples
