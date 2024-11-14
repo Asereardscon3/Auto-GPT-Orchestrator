@@ -76,3 +76,4 @@ Activity at 2024-11-14T09:22:46: Initial prototype for reinforcement learning mo
 Activity at 2024-11-14T16:04:04: Optimize inference engine for edge devices
 Activity at 2024-11-14T09:55:08: Optimize inference engine for edge devices
 Activity at 2024-11-14T13:35:18: Fix concurrency issue in task scheduler
+Activity at 2024-11-14T15:32:41: Add logging for better debugging
