@@ -150,3 +150,4 @@ Activity at 2024-11-27T12:03:15: Clean up code and remove unused imports
 Activity at 2024-11-27T11:55:54: Fix concurrency issue in task scheduler
 Activity at 2024-11-27T15:27:01: Add logging for better debugging
 Activity at 2024-11-27T17:10:49: Add logging for better debugging
+Activity at 2024-11-27T12:03:31: Optimize Dockerfile for smaller image size
