@@ -152,3 +152,4 @@ Activity at 2024-11-27T15:27:01: Add logging for better debugging
 Activity at 2024-11-27T17:10:49: Add logging for better debugging
 Activity at 2024-11-27T12:03:31: Optimize Dockerfile for smaller image size
 Activity at 2024-11-28T14:53:20: Update README with new benchmarks
+Activity at 2024-11-28T15:03:27: Refactor core logic for better performance
