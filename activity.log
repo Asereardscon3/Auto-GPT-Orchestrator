@@ -250,3 +250,4 @@ Activity at 2024-12-20T17:27:08: Initial prototype for reinforcement learning mo
 Activity at 2024-12-20T15:06:43: Optimize Dockerfile for smaller image size
 Activity at 2024-12-20T18:54:42: Optimize Dockerfile for smaller image size
 Activity at 2024-12-20T12:02:49: Optimize Dockerfile for smaller image size
+Activity at 2024-12-20T15:50:44: Add support for custom model architectures
