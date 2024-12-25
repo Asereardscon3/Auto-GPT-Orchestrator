@@ -268,3 +268,4 @@ Activity at 2024-12-23T15:23:59: Update README with new benchmarks
 Activity at 2024-12-25T13:13:18: Update dependencies to latest versions
 Activity at 2024-12-25T11:18:32: Fix bug in dashboard visualization
 Activity at 2024-12-25T17:36:34: Refactor core logic for better performance
+Activity at 2024-12-25T09:46:26: Optimize Dockerfile for smaller image size
