@@ -358,3 +358,4 @@ Activity at 2025-01-10T13:10:33: Fix concurrency issue in task scheduler
 Activity at 2025-01-10T16:18:56: Clean up code and remove unused imports
 Activity at 2025-01-10T15:48:38: Implement new feature for model quantization
 Activity at 2025-01-14T18:50:56: Clean up code and remove unused imports
+Activity at 2025-01-14T17:38:01: Add logging for better debugging
