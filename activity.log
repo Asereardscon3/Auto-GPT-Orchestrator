@@ -403,3 +403,4 @@ Activity at 2025-01-20T11:35:51: Update documentation and add usage examples
 Activity at 2025-01-20T10:04:50: Implement caching for faster data retrieval
 Activity at 2025-01-20T15:43:34: Clean up code and remove unused imports
 Activity at 2025-01-20T11:21:47: Refactor core logic for better performance
+Activity at 2025-01-20T13:06:52: Optimize Dockerfile for smaller image size
