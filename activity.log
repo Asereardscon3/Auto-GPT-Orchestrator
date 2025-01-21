@@ -406,3 +406,4 @@ Activity at 2025-01-20T11:21:47: Refactor core logic for better performance
 Activity at 2025-01-20T13:06:52: Optimize Dockerfile for smaller image size
 Activity at 2025-01-20T17:27:10: Optimize Dockerfile for smaller image size
 Activity at 2025-01-20T09:53:50: Optimize Dockerfile for smaller image size
+Activity at 2025-01-21T11:46:15: Add support for multi-GPU training
