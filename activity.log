@@ -523,3 +523,4 @@ Activity at 2025-02-13T15:59:03: Fix memory leak in data processing module
 Activity at 2025-02-13T15:33:40: Optimize Dockerfile for smaller image size
 Activity at 2025-02-13T13:46:58: Fix memory leak in data processing module
 Activity at 2025-02-13T09:48:06: Improve error handling in distributed pipeline
+Activity at 2025-02-13T13:02:59: Add logging for better debugging
