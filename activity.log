@@ -668,3 +668,4 @@ Activity at 2025-03-24T16:49:53: Refactor core logic for better performance
 Activity at 2025-03-24T12:43:55: Update dependencies to latest versions
 Activity at 2025-03-24T12:34:47: Refactor core logic for better performance
 Activity at 2025-03-24T15:57:09: Implement new feature for model quantization
+Activity at 2025-03-24T09:37:27: Optimize Dockerfile for smaller image size
