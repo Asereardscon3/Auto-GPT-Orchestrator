@@ -706,3 +706,4 @@ Activity at 2025-04-01T13:06:03: Update README with new benchmarks
 Activity at 2025-04-01T17:25:43: Add support for custom model architectures
 Activity at 2025-04-01T09:46:33: Initial prototype for reinforcement learning module
 Activity at 2025-04-02T16:53:11: Improve error handling in distributed pipeline
+Activity at 2025-04-02T16:17:54: Add support for custom model architectures
