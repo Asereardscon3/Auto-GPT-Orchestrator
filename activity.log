@@ -749,3 +749,4 @@ Activity at 2025-04-10T10:11:33: Improve error handling in distributed pipeline
 Activity at 2025-04-10T18:54:43: Fix concurrency issue in task scheduler
 Activity at 2025-04-10T16:02:08: Optimize inference engine for edge devices
 Activity at 2025-04-10T10:56:01: Optimize Dockerfile for smaller image size
+Activity at 2025-04-10T09:28:51: Add logging for better debugging
