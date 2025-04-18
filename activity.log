@@ -781,3 +781,4 @@ Activity at 2025-04-18T16:47:47: Add support for custom model architectures
 Activity at 2025-04-18T18:09:10: Update README with new benchmarks
 Activity at 2025-04-18T10:17:08: Initial prototype for reinforcement learning module
 Activity at 2025-04-18T09:44:57: Optimize Dockerfile for smaller image size
+Activity at 2025-04-18T16:58:30: Add logging for better debugging
