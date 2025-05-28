@@ -936,3 +936,4 @@ Activity at 2025-05-27T13:45:13: Add support for custom model architectures
 Activity at 2025-05-27T14:38:46: Clean up code and remove unused imports
 Activity at 2025-05-27T10:49:41: Fix memory leak in data processing module
 Activity at 2025-05-27T12:51:58: Add support for custom model architectures
+Activity at 2025-05-28T13:47:52: Refactor core logic for better performance
