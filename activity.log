@@ -1075,3 +1075,4 @@ Activity at 2025-07-02T18:56:23: Fix bug in dashboard visualization
 Activity at 2025-07-02T10:15:20: Add logging for better debugging
 Activity at 2025-07-02T11:30:52: Add support for multi-GPU training
 Activity at 2025-07-02T09:55:15: Add support for multi-GPU training
+Activity at 2025-07-02T15:03:18: Clean up code and remove unused imports
