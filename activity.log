@@ -1088,3 +1088,4 @@ Activity at 2025-07-03T18:20:47: Update README with new benchmarks
 Activity at 2025-07-03T14:11:58: Update dependencies to latest versions
 Activity at 2025-07-03T18:35:43: Add support for custom model architectures
 Activity at 2025-07-04T09:40:16: Optimize Dockerfile for smaller image size
+Activity at 2025-07-04T16:16:12: Fix concurrency issue in task scheduler
