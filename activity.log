@@ -1146,3 +1146,4 @@ Activity at 2025-07-15T15:09:48: Update documentation and add usage examples
 Activity at 2025-07-15T11:43:35: Improve error handling in distributed pipeline
 Activity at 2025-07-15T11:53:43: Improve error handling in distributed pipeline
 Activity at 2025-07-15T09:00:07: Add support for multi-GPU training
+Activity at 2025-07-16T13:04:38: Add support for multi-GPU training
