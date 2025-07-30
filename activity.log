@@ -1209,3 +1209,4 @@ Activity at 2025-07-30T18:27:51: Update README with new benchmarks
 Activity at 2025-07-30T15:17:26: Implement new feature for model quantization
 Activity at 2025-07-30T18:30:28: Implement new feature for model quantization
 Activity at 2025-07-30T15:33:28: Optimize inference engine for edge devices
+Activity at 2025-07-30T13:47:43: Refactor core logic for better performance
