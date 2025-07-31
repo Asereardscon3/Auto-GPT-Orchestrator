@@ -1218,3 +1218,4 @@ Activity at 2025-07-31T10:42:40: Fix bug in dashboard visualization
 Activity at 2025-07-31T15:11:06: Update README with new benchmarks
 Activity at 2025-07-31T16:53:57: Initial prototype for reinforcement learning module
 Activity at 2025-07-31T16:34:41: Update README with new benchmarks
+Activity at 2025-07-31T12:00:05: Optimize Dockerfile for smaller image size
