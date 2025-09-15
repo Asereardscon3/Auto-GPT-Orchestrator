@@ -1390,3 +1390,4 @@ Activity at 2025-09-12T10:11:06: Improve error handling in distributed pipeline
 Activity at 2025-09-12T16:07:55: Optimize inference engine for edge devices
 Activity at 2025-09-15T18:58:42: Optimize inference engine for edge devices
 Activity at 2025-09-15T15:10:57: Implement secure data ingestion protocol
+Activity at 2025-09-15T12:50:58: Optimize Dockerfile for smaller image size
