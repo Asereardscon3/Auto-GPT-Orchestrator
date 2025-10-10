@@ -1491,3 +1491,4 @@ Activity at 2025-10-10T11:16:07: Implement secure data ingestion protocol
 Activity at 2025-10-10T11:41:00: Update documentation and add usage examples
 Activity at 2025-10-10T14:56:46: Clean up code and remove unused imports
 Activity at 2025-10-10T12:32:01: Add support for custom model architectures
+Activity at 2025-10-10T17:27:59: Optimize Dockerfile for smaller image size
