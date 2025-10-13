@@ -1494,3 +1494,4 @@ Activity at 2025-10-10T12:32:01: Add support for custom model architectures
 Activity at 2025-10-10T17:27:59: Optimize Dockerfile for smaller image size
 Activity at 2025-10-13T18:46:27: Fine-tune hyperparameters for better accuracy
 Activity at 2025-10-13T09:40:02: Optimize inference engine for edge devices
+Activity at 2025-10-13T12:19:10: Add logging for better debugging
