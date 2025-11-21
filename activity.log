@@ -1635,3 +1635,4 @@ Activity at 2025-11-19T10:51:26: Implement new feature for model quantization
 Activity at 2025-11-20T10:55:07: Fix memory leak in data processing module
 Activity at 2025-11-21T12:55:55: Add support for custom model architectures
 Activity at 2025-11-21T18:05:15: Add logging for better debugging
+Activity at 2025-11-21T18:03:57: Optimize Dockerfile for smaller image size
