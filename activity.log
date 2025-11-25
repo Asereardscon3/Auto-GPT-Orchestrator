@@ -1645,3 +1645,4 @@ Activity at 2025-11-25T16:08:38: Add support for multi-GPU training
 Activity at 2025-11-25T13:40:22: Optimize Dockerfile for smaller image size
 Activity at 2025-11-25T12:15:01: Refactor core logic for better performance
 Activity at 2025-11-25T15:24:51: Add logging for better debugging
+Activity at 2025-11-25T17:44:12: Add support for multi-GPU training
