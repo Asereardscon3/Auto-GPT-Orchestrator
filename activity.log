@@ -1666,3 +1666,4 @@ Activity at 2025-11-28T10:51:37: Refactor core logic for better performance
 Activity at 2025-11-28T12:49:58: Update documentation and add usage examples
 Activity at 2025-11-28T12:04:49: Optimize Dockerfile for smaller image size
 Activity at 2025-12-02T17:49:24: Optimize inference engine for edge devices
+Activity at 2025-12-02T12:05:58: Add support for custom model architectures
