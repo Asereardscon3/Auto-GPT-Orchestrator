@@ -1705,3 +1705,4 @@ Activity at 2025-12-08T09:48:57: Add logging for better debugging
 Activity at 2025-12-08T17:13:41: Implement new feature for model quantization
 Activity at 2025-12-08T17:03:24: Implement new feature for model quantization
 Activity at 2025-12-09T17:43:34: Clean up code and remove unused imports
+Activity at 2025-12-09T09:13:34: Update README with new benchmarks
