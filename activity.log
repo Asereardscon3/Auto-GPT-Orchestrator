@@ -1900,3 +1900,4 @@ Activity at 2026-01-19T16:28:59: Add support for custom model architectures
 Activity at 2026-01-19T12:05:40: Update documentation and add usage examples
 Activity at 2026-01-19T15:10:49: Update README with new benchmarks
 Activity at 2026-01-19T17:25:39: Optimize Dockerfile for smaller image size
+Activity at 2026-01-20T12:13:52: Add logging for better debugging
