@@ -1921,3 +1921,4 @@ Activity at 2026-01-23T14:01:39: Optimize Dockerfile for smaller image size
 Activity at 2026-01-23T10:14:35: Update README with new benchmarks
 Activity at 2026-01-23T13:04:14: Update README with new benchmarks
 Activity at 2026-01-23T17:44:46: Clean up code and remove unused imports
+Activity at 2026-01-23T14:27:58: Add support for multi-GPU training
