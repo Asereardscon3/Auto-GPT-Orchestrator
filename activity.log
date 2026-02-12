@@ -1992,3 +1992,4 @@ Activity at 2026-02-10T09:30:35: Update dependencies to latest versions
 Activity at 2026-02-10T09:12:12: Add support for custom model architectures
 Activity at 2026-02-12T15:44:40: Update dependencies to latest versions
 Activity at 2026-02-12T12:58:07: Refactor core logic for better performance
+Activity at 2026-02-12T13:26:13: Add logging for better debugging
